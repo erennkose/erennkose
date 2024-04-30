@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @erennkose
 - 👀 I’m interested in programming,basketball and AI
-- 💻 I know C and Java languages  
+- 💻 I know C, Java and Python languages  
 - 📫 How to reach me: erenkosee471@gmail.com or erenwkose@gmail.com
