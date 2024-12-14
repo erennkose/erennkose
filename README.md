@@ -3,16 +3,16 @@
 
 ### 📊 My Skills
 
-| Language/Tool | Proficiency |
-|---------------|-------------|
-| **C**         | ![C](https://progress-bar.dev/85/) |
-| **C++**       | ![C++](https://progress-bar.dev/80/) |
-| **C#**        | ![C#](https://progress-bar.dev/75/) |
-| **Java**      | ![Java](https://progress-bar.dev/70/) |
-| **Python**    | ![Python](https://progress-bar.dev/90/) |
-| **JavaScript**| ![JavaScript](https://progress-bar.dev/65/) |
-| **CSS**       | ![CSS](https://progress-bar.dev/60/) |
-| **PHP**       | ![PHP](https://progress-bar.dev/50/) |
+| Language/Tool |
+|---------------|
+| **C**         | 
+| **C++**       | 
+| **C#**        | 
+| **Java**      | 
+| **Python**    | 
+| **JavaScript**| 
+| **CSS**       | 
+| **PHP**       | 
 
 ---
 
