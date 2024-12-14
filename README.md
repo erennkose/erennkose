@@ -23,6 +23,6 @@
 
 ---
 
-###  📫 How to reach me:
+###  📫 How To Reach Me
 - 📧 [erenkosee471@gmail.com](mailto:erenkosee471@gmail.com)
 - 📧 [erenwkose@gmail.com](mailto:erenwkose@gmail.com)
