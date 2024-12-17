@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=300&color=007400&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Hello!+;My+name+is+Eren+Kose.+Welcome+to+my+README!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=300&color=007400&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Hello!+;My+name+is+Eren+Köse.+Welcome+to+my+README!)](https://git.io/typing-svg)
 
 ---
 
