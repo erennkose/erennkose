@@ -18,15 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="40" height="40" />
 </div>
 
----
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 35px>  </picture> GitHub Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=erennkose&show_icons=true&theme=radical" alt="Eren's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erennkose&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</div>
-
----
 
 ###  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Connect With Me
 - 📧 [erennkose@outlook.com](mailto:erennkose@outlook.com)
