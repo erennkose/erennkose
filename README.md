@@ -2,6 +2,7 @@
 
 ---
 
+
 ###  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> Programming Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -18,7 +19,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="40" height="40" />
 </div>
 
+###
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erennkose&theme=dark" width=750  alt="stats graph"/>
+
+</div>
+
+###
+
+---
 
 ###  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Connect With Me
 - 📧 [erennkose@outlook.com](mailto:erennkose@outlook.com)
